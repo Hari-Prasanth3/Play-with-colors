@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.box{
+  
+    display: flex;
+    justify-content: center;
+   
+}
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+h2{
+    padding: 80px;
+}
+#color-box{
+    margin-top: 30px;
+    background-color: bisque;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    padding-top: 50px;
+    font-style: oblique;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+#color{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.orange{
+    background-color: orangered;
+}
+.aqua{
+    background-color:aqua;
+}
+.yellow{
+    background-color: yellow;
+}
